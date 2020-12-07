@@ -1,8 +1,6 @@
-# Web
-web前端开发学习
+#项目介绍
 
-## 创建目标
-记录web前端学习的笔记
+记录web前端的入门学习过程，希望通过学习能成功转岗。
 
-## 参考项目
-https://github.com/qianguyihao/Web
+学习过程中参考了诸多他人优秀的项目，列出来，方便多次查看和学习。
+- qianguyihao: https://github.com/qianguyihao/Web
