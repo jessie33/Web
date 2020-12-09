@@ -31,8 +31,7 @@ markdown基本语法：https://www.jianshu.com/p/191d1e21f7ed/
 
 - 效果：
 
-###### ![](/Users/huifangjiang/Desktop/Web/IMG/markdown标题效果.png)
-
+![](https://github.com/jessie33/Web/raw/master/IMG/markdown标题效果.png)
 
 
 #### 二、字体
@@ -104,7 +103,7 @@ markdown基本语法：https://www.jianshu.com/p/191d1e21f7ed/
 
 - 效果：
 
-![wēixin](/Users/huifangjiang/Desktop/Web/IMG/logo_weixin.png)
+![wēixin](https://github.com/jessie33/Web/raw/master/IMG/logo_weixin.png)
 
 
 
