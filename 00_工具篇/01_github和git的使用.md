@@ -10,4 +10,4 @@
 # git使用
 - mac上git安装与github基本使用 https://www.jianshu.com/p/7edb6b838a2e
 
-
+- git常用命令及方法大全https://www.cnblogs.com/miracle77hp/articles/11163532.html
