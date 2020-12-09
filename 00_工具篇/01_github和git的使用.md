@@ -8,10 +8,6 @@
 
 
 # git使用
-1.安装git环境
-git安装包windows下载链接：https://npm.taobao.org/mirrors/git-for-windows/
-git安装包mac下载链接：
-
-2.git
+- mac上git安装与github基本使用 https://www.jianshu.com/p/7edb6b838a2e
 
 
